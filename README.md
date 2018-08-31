@@ -1,2 +1,2 @@
 # node-polyglot-client
-Client Code for https://github.com/paoda/node-polyglot which is a node server for the rails server https://github.com/beatriceo/polyglot
+Client Code for https://github.com/paoda/node-polyglot which is a NodeJS server which runs alongside https://github.com/beatriceo/polyglot
